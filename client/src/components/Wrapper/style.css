@@ -3,7 +3,7 @@
     background-image: url('./priscilla-du-preez-dlxLGIy-2VU-unsplash.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    position: fixed;
+    /* position: fixed; */
     background-attachment: scroll;
     background-position: 50% 50%;
     top: 0;
